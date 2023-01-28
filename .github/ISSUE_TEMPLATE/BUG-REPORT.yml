@@ -43,7 +43,7 @@ body:
     id: crash-log
     attributes:
       label: Crash Log
-      description: Please use a pastebin service(e.g., https://paste.ubuntu.com) to hold your log and paste the link below.
+      description: Please use a pastebin service(e.g., [`Ubuntu Pastebin`](https://paste.ubuntu.com)) to hold your log and paste the link below.
   - type: textarea
     id: anything-else
     attributes:
