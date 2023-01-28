@@ -26,14 +26,16 @@ body:
   - type: input
     id: create-version
     attributes:
-      label: What is your `Create` version?
+      label: Create Version
+      description: What is your `Create` version?
       placeholder: E.g., 0.5.0.g-836
     validations:
       required: true
   - type: input
     id: create-encases-version
     attributes:
-      label: "What is your `Create: Encases` version?"
+      label: Create: Encases Version
+      description: "What is your `Create: Encases` version?"
       placeholder: E.g., 1.0.0
     validations:
       required: true
