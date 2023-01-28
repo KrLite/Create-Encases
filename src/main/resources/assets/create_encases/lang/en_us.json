@@ -1,34 +1,34 @@
 {
-  "hint.itemGroup": "Item Groups",
+  "comment.itemGroup": "Item Groups",
 
   "itemGroup.create_encases.general": "Create: Encases",
 
 
 
-  "hint.block": "Blocks",
+  "comment.block": "Blocks",
 
-  "block.create_encases.shadow_steel_ladder": "Shadow Steel Ladder",
+  "block.create_encases.shadow_steel_ladder"    : "Shadow Steel Ladder",
   "block.create_encases.refined_radiance_ladder": "Refined Radiance Ladder",
-  "block.create_encases.railway_ladder": "Railway Ladder",
-  "block.create_encases.zinc_ladder": "Zinc Ladder",
+  "block.create_encases.railway_ladder"         : "Railway Ladder",
+  "block.create_encases.zinc_ladder"            : "Zinc Ladder",
 
   "block.create_encases.zinc_casing": "Zinc Casing",
 
-  "block.create_encases.shadow_steel_encased_cogwheel": "Shadow Steel Encased Cogwheel",
+  "block.create_encases.shadow_steel_encased_cogwheel"    : "Shadow Steel Encased Cogwheel",
   "block.create_encases.refined_radiance_encased_cogwheel": "Refined Radiance Encased Cogwheel",
-  "block.create_encases.railway_encased_cogwheel": "Railway Encased Cogwheel",
-  "block.create_encases.copper_encased_cogwheel": "Copper Encased Cogwheel",
-  "block.create_encases.zinc_encased_cogwheel": "Zinc Encased Cogwheel",
+  "block.create_encases.railway_encased_cogwheel"         : "Railway Encased Cogwheel",
+  "block.create_encases.copper_encased_cogwheel"          : "Copper Encased Cogwheel",
+  "block.create_encases.zinc_encased_cogwheel"            : "Zinc Encased Cogwheel",
 
-  "block.create_encases.shadow_steel_encased_large_cogwheel": "Shadow Steel Encased Large Cogwheel",
+  "block.create_encases.shadow_steel_encased_large_cogwheel"    : "Shadow Steel Encased Large Cogwheel",
   "block.create_encases.refined_radiance_encased_large_cogwheel": "Refined Radiance Encased Large Cogwheel",
-  "block.create_encases.railway_encased_large_cogwheel": "Railway Encased Large Cogwheel",
-  "block.create_encases.copper_encased_large_cogwheel": "Copper Encased Large Cogwheel",
-  "block.create_encases.zinc_encased_large_cogwheel": "Zinc Encased Large Cogwheel",
+  "block.create_encases.railway_encased_large_cogwheel"         : "Railway Encased Large Cogwheel",
+  "block.create_encases.copper_encased_large_cogwheel"          : "Copper Encased Large Cogwheel",
+  "block.create_encases.zinc_encased_large_cogwheel"            : "Zinc Encased Large Cogwheel",
 
-  "block.create_encases.shadow_steel_encased_shaft": "Shadow Steel Encased Shaft",
+  "block.create_encases.shadow_steel_encased_shaft"    : "Shadow Steel Encased Shaft",
   "block.create_encases.refined_radiance_encased_shaft": "Refined Radiance Encased Shaft",
-  "block.create_encases.railway_encased_shaft": "Railway Encased Shaft",
-  "block.create_encases.copper_encased_shaft": "Copper Encased Shaft",
-  "block.create_encases.zinc_encased_shaft": "Zinc Encased Shaft"
+  "block.create_encases.railway_encased_shaft"         : "Railway Encased Shaft",
+  "block.create_encases.copper_encased_shaft"          : "Copper Encased Shaft",
+  "block.create_encases.zinc_encased_shaft"            : "Zinc Encased Shaft"
 }

@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-	  "com.oasis.ic.create_encases.CreateEncases"
+      "net.krlite.create_encases.CreateEncases"
     ]
   },
   "mixins": [

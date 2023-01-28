@@ -1,34 +1,34 @@
 {
-  "hint.itemGroup": "物品栏",
+  "comment.itemGroup": "物品栏",
 
   "itemGroup.create_encases.general": "机械动力：装箱",
 
 
 
-  "hint.block": "方块",
+  "comment.block": "方块",
 
-  "block.create_encases.shadow_steel_ladder": "暗影钢梯子",
+  "block.create_encases.shadow_steel_ladder"    : "暗影钢梯子",
   "block.create_encases.refined_radiance_ladder": "光辉石梯子",
-  "block.create_encases.railway_ladder": "列车梯子",
-  "block.create_encases.zinc_ladder": "锌梯子",
+  "block.create_encases.railway_ladder"         : "列车梯子",
+  "block.create_encases.zinc_ladder"            : "锌梯子",
 
   "block.create_encases.zinc_casing": "锌机壳",
 
-  "block.create_encases.shadow_steel_encased_cogwheel": "暗影齿轮箱",
+  "block.create_encases.shadow_steel_encased_cogwheel"    : "暗影齿轮箱",
   "block.create_encases.refined_radiance_encased_cogwheel": "光辉齿轮箱",
-  "block.create_encases.railway_encased_cogwheel": "列车齿轮箱",
-  "block.create_encases.copper_encased_cogwheel": "铜齿轮箱",
-  "block.create_encases.zinc_encased_cogwheel": "锌齿轮箱",
+  "block.create_encases.railway_encased_cogwheel"         : "列车齿轮箱",
+  "block.create_encases.copper_encased_cogwheel"          : "铜齿轮箱",
+  "block.create_encases.zinc_encased_cogwheel"            : "锌齿轮箱",
 
-  "block.create_encases.shadow_steel_encased_large_cogwheel": "暗影大齿轮箱",
+  "block.create_encases.shadow_steel_encased_large_cogwheel"    : "暗影大齿轮箱",
   "block.create_encases.refined_radiance_encased_large_cogwheel": "光辉大齿轮箱",
-  "block.create_encases.railway_encased_large_cogwheel": "列车大齿轮箱",
-  "block.create_encases.copper_encased_large_cogwheel": "铜大齿轮箱",
-  "block.create_encases.zinc_encased_large_cogwheel": "锌大齿轮箱",
+  "block.create_encases.railway_encased_large_cogwheel"         : "列车大齿轮箱",
+  "block.create_encases.copper_encased_large_cogwheel"          : "铜大齿轮箱",
+  "block.create_encases.zinc_encased_large_cogwheel"            : "锌大齿轮箱",
 
-  "block.create_encases.shadow_steel_encased_shaft": "暗影传动杆箱",
+  "block.create_encases.shadow_steel_encased_shaft"    : "暗影传动杆箱",
   "block.create_encases.refined_radiance_encased_shaft": "光辉传动杆箱",
-  "block.create_encases.railway_encased_shaft": "列车传动杆箱",
-  "block.create_encases.copper_encased_shaft": "铜传动杆箱",
-  "block.create_encases.zinc_encased_shaft": "锌传动杆箱"
+  "block.create_encases.railway_encased_shaft"         : "列车传动杆箱",
+  "block.create_encases.copper_encased_shaft"          : "铜传动杆箱",
+  "block.create_encases.zinc_encased_shaft"            : "锌传动杆箱"
 }
