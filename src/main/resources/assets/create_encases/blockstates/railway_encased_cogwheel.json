@@ -1,0 +1,48 @@
+{
+	"variants": {
+		"axis=x,bottom_shaft=false,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical",
+			"y": 90
+		},
+		"axis=y,bottom_shaft=false,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_horizontal"
+		},
+		"axis=z,bottom_shaft=false,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical",
+			"y": 180
+		},
+		"axis=x,bottom_shaft=true,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_bottom",
+			"y": 90
+		},
+		"axis=y,bottom_shaft=true,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_horizontal_bottom"
+		},
+		"axis=z,bottom_shaft=true,top_shaft=false": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_bottom",
+			"y": 180
+		},
+		"axis=x,bottom_shaft=false,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_top",
+			"y": 90
+		},
+		"axis=y,bottom_shaft=false,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_horizontal_top"
+		},
+		"axis=z,bottom_shaft=false,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_top",
+			"y": 180
+		},
+		"axis=x,bottom_shaft=true,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_top_bottom",
+			"y": 90
+		},
+		"axis=y,bottom_shaft=true,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_horizontal_top_bottom"
+		},
+		"axis=z,bottom_shaft=true,top_shaft=true": {
+			"model": "create_encases:block/encased_cogwheel/railway/railway_vertical_top_bottom",
+			"y": 180
+		}
+	}
+}

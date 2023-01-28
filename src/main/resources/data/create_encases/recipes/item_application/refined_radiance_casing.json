@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:cut_tuff_bricks"
+    },
+    {
+      "item": "create:refined_radiance"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:refined_radiance_casing"
+    }
+  ]
+}

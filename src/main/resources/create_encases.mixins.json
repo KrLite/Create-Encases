@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.oasis.ic.create_encases.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AllSpriteShiftsInvoker",
+    "BeltBlockMixin",
+    "BeltModelMixin",
+    "BeltTileEntityMixin",
+    "BuilderTransformersMixin",
+    "CasingTypeMixin",
+    "CogWheelBlockMixin",
+    "CreateAccessor",
+    "CreateMixin",
+    "ShaftBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

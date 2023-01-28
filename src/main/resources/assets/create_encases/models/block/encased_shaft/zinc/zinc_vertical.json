@@ -1,0 +1,8 @@
+{
+	"parent": "create_encases:block/encased_shaft/block_vertical",
+	"textures": {
+		"open": "create_encases:block/zinc_gearbox",
+		"side": "create_encases:block/zinc_casing",
+		"casing": "create_encases:block/zinc_casing"
+	}
+}

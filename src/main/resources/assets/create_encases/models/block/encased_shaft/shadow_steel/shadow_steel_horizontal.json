@@ -1,0 +1,8 @@
+{
+	"parent": "create_encases:block/encased_shaft/block_horizontal",
+	"textures": {
+		"open": "create:block/shadow_steel_gearbox",
+		"side": "create:block/shadow_steel_casing",
+		"casing": "create:block/shadow_steel_casing"
+	}
+}

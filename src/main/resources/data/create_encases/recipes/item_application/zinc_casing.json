@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "c:stone"
+    },
+    {
+      "tag": "c:ingots/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_encases:zinc_casing"
+    }
+  ]
+}

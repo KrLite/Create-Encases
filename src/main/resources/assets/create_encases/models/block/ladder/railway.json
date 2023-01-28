@@ -1,0 +1,7 @@
+{
+  "parent": "create_encases:block/ladder/ladder",
+  "textures": {
+    "hoop": "create:block/ladder_railway_hoop",
+    "ladder": "create:block/ladder_railway"
+  }
+}

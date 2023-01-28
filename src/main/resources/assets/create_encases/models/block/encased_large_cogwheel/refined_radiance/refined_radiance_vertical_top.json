@@ -1,0 +1,10 @@
+{
+	"parent": "create_encases:block/encased_large_cogwheel/block_vertical_top",
+	"textures": {
+		"casing": "create:block/refined_radiance_casing",
+		"gearbox": "create:block/refined_radiance_gearbox",
+		"inner": "create:block/palettes/stone_types/cut/tuff_cut",
+		"top": "create:block/refined_radiance_encased_cogwheel_side_connected",
+		"layered": "create:block/refined_radiance_encased_cogwheel_side_connected"
+	}
+}

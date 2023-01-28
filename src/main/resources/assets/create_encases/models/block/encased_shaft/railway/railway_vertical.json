@@ -1,0 +1,8 @@
+{
+	"parent": "create_encases:block/encased_shaft/block_vertical",
+	"textures": {
+		"open": "create:block/railway_gearbox",
+		"side": "create:block/railway_casing",
+		"casing": "create:block/railway_casing"
+	}
+}
