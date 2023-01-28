@@ -28,9 +28,10 @@ body:
       description: Tell us how to reproduce the bug.
       placeholder: |
         E.g.,
-        1. Nevigate to `...`
-        2. Click on `...`
-        3. You will see `...`
+        1. Nevigate to ...
+        2. Click on ...
+        3. You will see ...
+        ...
     validations:
       required: true
   - type: dropdown
