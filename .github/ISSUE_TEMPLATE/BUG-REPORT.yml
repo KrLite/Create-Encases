@@ -34,7 +34,7 @@ body:
   - type: input
     id: create-encases-version
     attributes:
-      label: Create: Encases Version
+      label: "Create: Encases Version"
       description: "What is your `Create: Encases` version?"
       placeholder: E.g., 1.0.0
     validations:
